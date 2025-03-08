@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on chris_lee</title>
-    <link>https://thewhitelisted.github.io/categories/</link>
+    <link>https://thewhitelisted.github.io/chris_lee/categories/</link>
     <description>Recent content in Categories on chris_lee</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <atom:link href="https://thewhitelisted.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thewhitelisted.github.io/chris_lee/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
